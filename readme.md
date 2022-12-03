@@ -8,6 +8,8 @@
 
 Не получилось придумать доп. фичи из существующих, которые бы давали буст в качестве.
 
+Добавил файл forfastapi и response - инпут и аутпут сервиса для 2 пункта
+
 фотки работы сервиса
 ![image](https://user-images.githubusercontent.com/64848449/205437410-b9adfb60-8645-413e-9d5a-8579d2074be6.png)
 ![image](https://user-images.githubusercontent.com/64848449/205437436-de6cd249-52ba-4976-8378-78e7be875db7.png)
